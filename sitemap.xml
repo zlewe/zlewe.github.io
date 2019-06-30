@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zlewe.github.io/authors/admin/</loc>
+    <loc>https://zlewe.github.io/authors/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zlewe.github.io/authors/</loc>
+    <loc>https://zlewe.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/authors/ewe-zu-lin/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/project/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/project/ml-webapp/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/tags/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -31,16 +67,6 @@
   
   <url>
     <loc>https://zlewe.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zlewe.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zlewe.github.io/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
