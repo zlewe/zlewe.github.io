@@ -1,55 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://zlewe.github.io/authors/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zlewe.github.io/tags/deep-learning/</loc>
+    <loc>https://zlewe.github.io/tag/convolutional-neural-network/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zlewe.github.io/authors/ewe-zu-lin/</loc>
+    <loc>https://zlewe.github.io/tag/deep-learning/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zlewe.github.io/project/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zlewe.github.io/project/ml-webapp/</loc>
+    <loc>https://zlewe.github.io/tag/python/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/project/statistical-diagram-classification/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zlewe.github.io/tags/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/author/zu-lin-ewe/</loc>
+    <lastmod>2019-07-01T00:05:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zlewe.github.io/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zlewe.github.io/authors/admin/</loc>
   </url>
   
   <url>
     <loc>https://zlewe.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -58,7 +57,6 @@
   
   <url>
     <loc>https://zlewe.github.io/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,6 +65,10 @@
   
   <url>
     <loc>https://zlewe.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zlewe.github.io/author/zu-lin-ewe/</loc>
   </url>
   
 </urlset>
