@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile-robot | Zu Lin Ewe</title>
+    <link>https://zlewe.github.io/tag/mobile-robot/</link>
+      <atom:link href="https://zlewe.github.io/tag/mobile-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>mobile-robot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 15:49:10 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>mobile-robot</title>
+      <link>https://zlewe.github.io/tag/mobile-robot/</link>
+    </image>
+    
+    <item>
+      <title>Xbee Wireless Mesh Network and Communication-aware Planning in Mobile Robot Exploration</title>
+      <link>https://zlewe.github.io/project/xbee-network-mobile-robot-exploration/</link>
+      <pubDate>Tue, 04 Aug 2020 15:49:10 +0800</pubDate>
+      <guid>https://zlewe.github.io/project/xbee-network-mobile-robot-exploration/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-project&#34;&gt;Undergraduate Project&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Semester: Fall 2019&lt;/li&gt;
+&lt;li&gt;Advisor:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prof. Hsueh-Cheng ‘Nick’ Wang&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;Assistant Professor&lt;/em&gt; &lt;/br&gt;
+Department of Electrical and Computer Engineering, &lt;/br&gt;
+National Chiao Tung University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prof. Wen-Chih Peng&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;Chairman/Professor&lt;/em&gt; &lt;/br&gt;
+Department of Computer Science, &lt;/br&gt;
+National Chiao Tung University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In DARPA SubT Challenge, the robots are required to explore underground environments, which are challenging for communication systems. Teams in SubT Challenge mostly go with the deployable communication approach. Team NCTU also deploy communication nodes of our own design which are capable of mesh networking. One of the problem faced is when and how should we deploy a new node.&lt;/p&gt;
+&lt;p&gt;Please download the PDF file for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

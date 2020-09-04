@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ultra-wideband | Zu Lin Ewe</title>
+    <link>https://zlewe.github.io/tag/ultra-wideband/</link>
+      <atom:link href="https://zlewe.github.io/tag/ultra-wideband/index.xml" rel="self" type="application/rss+xml" />
+    <description>ultra-wideband</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 15:01:05 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ultra-wideband</title>
+      <link>https://zlewe.github.io/tag/ultra-wideband/</link>
+    </image>
+    
+    <item>
+      <title>Uwb-based Positioning System Analysis and Applications in Mobile Robot Exploration</title>
+      <link>https://zlewe.github.io/project/uwb-based-positioning-system/</link>
+      <pubDate>Wed, 04 Mar 2020 15:01:05 +0800</pubDate>
+      <guid>https://zlewe.github.io/project/uwb-based-positioning-system/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-project&#34;&gt;Undergraduate Project&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Semester: Fall 2019&lt;/li&gt;
+&lt;li&gt;Advisor:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prof. Hsueh-Cheng ‘Nick’ Wang&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;Assistant Professor&lt;/em&gt; &lt;/br&gt;
+Department of Electrical and Computer Engineering, &lt;/br&gt;
+National Chiao Tung University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prof. Wen-Chih Peng&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;Chairman/Professor&lt;/em&gt; &lt;/br&gt;
+Department of Computer Science, &lt;/br&gt;
+National Chiao Tung University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In the recent years, ultra-wideband based (UWB) system has become increasingly popular for positioning especially in GPS-denied environments such as indoors. This is due to the unique RF characteristic of UWB where accurate range measurements can be obtained with time of arrival (ToA) method. This project seek to analyse the system as well as exploring its possible applications in DARPA Sub-terranean Challenge, where mobile robots are deployed into unknown environments for exploration.&lt;/p&gt;
+&lt;p&gt;Please download the PDF file for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
