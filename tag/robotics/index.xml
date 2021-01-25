@@ -5,12 +5,20 @@
     <link>https://zlewe.github.io/tag/robotics/</link>
       <atom:link href="https://zlewe.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>robotics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 15:49:10 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>robotics</title>
       <link>https://zlewe.github.io/tag/robotics/</link>
     </image>
+    
+    <item>
+      <title>Cross-Modal Contrastive Learning of Representations for Navigation using Lightweight, Low-Cost Millimeter Wave Radar for Adverse Environmental Conditions</title>
+      <link>https://zlewe.github.io/publication/2101-03525/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlewe.github.io/publication/2101-03525/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Xbee Wireless Mesh Network and Communication-aware Planning in Mobile Robot Exploration</title>

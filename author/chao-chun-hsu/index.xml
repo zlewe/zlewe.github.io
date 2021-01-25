@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao-Chun Hsu | Zu Lin Ewe</title>
+    <link>https://zlewe.github.io/author/chao-chun-hsu/</link>
+      <atom:link href="https://zlewe.github.io/author/chao-chun-hsu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao-Chun Hsu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Chao-Chun Hsu</title>
+      <link>https://zlewe.github.io/author/chao-chun-hsu/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Modal Contrastive Learning of Representations for Navigation using Lightweight, Low-Cost Millimeter Wave Radar for Adverse Environmental Conditions</title>
+      <link>https://zlewe.github.io/publication/2101-03525/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zlewe.github.io/publication/2101-03525/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
