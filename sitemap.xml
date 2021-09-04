@@ -1,191 +1,115 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zlewe.github.io/publication-type/2/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/authors/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/chao-chun-hsu/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/chen-lung-lu/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/ching-i-huang/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/contrastive-learning/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/publication/2101-03525/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/hsueh-cheng-wang/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/jui-te-huang/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/mmwave-radar/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/navigation/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/po-jui-huang/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/po-kai-chang/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/publication_types/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/publication/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/reinforcement-learning/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/robotics/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tags/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/zu-lin-ewe/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/communication/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/mesh/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/mobile-robot/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/project/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/xbee/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/project/xbee-network-mobile-robot-exploration/</loc>
     <lastmod>2020-08-04T15:49:10+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/localization/</loc>
     <lastmod>2020-03-04T15:01:05+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/positioning/</loc>
     <lastmod>2020-03-04T15:01:05+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/ultra-wideband/</loc>
     <lastmod>2020-03-04T15:01:05+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/project/uwb-based-positioning-system/</loc>
     <lastmod>2020-03-04T15:01:05+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/convolutional-neural-network/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/deep-learning/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/tag/python/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/project/statistical-diagram-classification/</loc>
     <lastmod>2019-07-01T00:05:26+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zlewe.github.io/author/zu-lin-ewe/</loc>
   </url>
-  
 </urlset>
